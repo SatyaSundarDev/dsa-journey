@@ -55,15 +55,15 @@ Each topic will have:
 This repository is my **public accountability system**.
 
 **My commitment:**
-- Solve **X problems per day** _or_
-- Spend **Y focused hours per day** on DSA practice
+- Solve **2 problems per day** _or_
+- Spend **2 focused hours per day** on DSA practice
 
 ### 📅 Progress Log Template
 
 | Day | Topic | Problems Solved | Notes / Learnings |
 |----|------|-----------------|-------------------|
 | Day 1 | Arrays | 2 | Time complexity basics |
-| Day 2 | Strings | 3 | Two-pointer patterns |
+
 
 I’ll keep updating this table as I move forward.
 
