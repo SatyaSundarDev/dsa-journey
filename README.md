@@ -63,6 +63,7 @@ This repository is my **public accountability system**.
 | Day | Topic | Problems Solved | Notes / Learnings |
 |----|------|-----------------|-------------------|
 | Day 1 | Arrays | 2 | Time complexity basics |
+| Day 2 | Arrays | 2 | Lerned Array Data Structure |
 
 
 I’ll keep updating this table as I move forward.
