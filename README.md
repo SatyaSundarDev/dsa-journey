@@ -64,6 +64,7 @@ This repository is my **public accountability system**.
 |----|------|-----------------|-------------------|
 | Day 1 | Arrays | 2 | Time complexity basics |
 | Day 2 | Arrays | 2 | Lerned Array Data Structure |
+| Day 3 | Linnked List | 1 | Learned Singly Linked List |
 
 
 I’ll keep updating this table as I move forward.
