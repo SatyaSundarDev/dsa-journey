@@ -64,7 +64,8 @@ This repository is my **public accountability system**.
 |----|------|-----------------|-------------------|
 | Day 1 | Arrays | 2 | Time complexity basics |
 | Day 2 | Arrays | 2 | Lerned Array Data Structure |
-| Day 3 | Linnked List | 1 | Learned Singly Linked List |
+| Day 3 | Linked List | 1 | Learned Singly Linked List |
+| Day 4 | Linked List | 2 | Learned Doubly Linked List |
 
 
 I’ll keep updating this table as I move forward.
@@ -73,12 +74,13 @@ I’ll keep updating this table as I move forward.
 
 ## 🛠️ Tech Stack & Platforms
 
-- **Primary Language:** C++ / Java / JavaScript *(choose one & stick to it)*  
+- **Primary Language:** Java / JavaScript 
 - **Practice Platforms:**
   - LeetCode
   - CodeStudio
   - GeeksforGeeks
   - HackerRank
+  - HackerEarth
 
 This repo supports **DSA practice**, **coding interview prep**, and building strong **problem-solving skills** from scratch.
 
